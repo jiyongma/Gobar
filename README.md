@@ -14,4 +14,6 @@ Use
 
 Download the sources and execute
 
+https://github.com/jiyongma/Gobar.git
+
 python Gobar.py
